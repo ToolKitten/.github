@@ -4,4 +4,6 @@ ToolKitten is a website collecting useful and interesting websites around the we
 
 We're very much open to contributions (especially the logo, the one currently is somewhat of a placeholder)!
 
-Also, I'm still learning all things Git(Hub)... if you've got any tips & tricks, I'd be happy to hear them :))
+Also, I'm using this project as an excuse for learning all things Git(Hub), Cloudflare and website building...
+
+If you've got any tips & tricks, I'd be happy to hear them :))
